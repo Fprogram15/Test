@@ -38,8 +38,6 @@ if RENDER_EXTERNAL_HOSTNAME:
 
 INSTALLED_APPS = [
     'recetas',
-    'recetas.static',
-    'recetas.templates',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
